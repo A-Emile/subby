@@ -31,4 +31,4 @@ Subby is an open-source project and contributions are welcome. If you have an id
 
 ## License
 
-Subby is licensed under the [MIT License](https://github.com/your-username/subby/blob/master/LICENSE).
+Subby is licensed under the [MIT License](https://github.com/A-Emile/subby/blob/master/LICENSE).
