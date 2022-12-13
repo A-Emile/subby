@@ -25,6 +25,8 @@ To use Subby, open the app and enter the URL, username, and password for your Su
 
 Subby supports Chromecast, so you can easily stream your music to a compatible device. It also supports Android Auto, so you can control it hands-free while driving.
 
+## Screenshots
+
 ## Contributions
 
 Subby is an open-source project and contributions are welcome. If you have an idea for a new feature or have found a bug, you can open an issue on the [GitHub issue tracker](https://github.com/your-username/subby/issues). If you want to contribute code, you can create a pull request.
