@@ -27,7 +27,7 @@ Subby is an open-source client for Subsonic-compatible music streaming servers. 
 
 To use Subby, you will need a Subsonic-compatible server set up and running. If you don't have one, you can download the server software from [the Subsonic website](https://subsonic.org/), [the Navidrome website](https://www.navidrome.org/), or [the Airsonic website](https://airsonic.github.io/).
 
-Subby is currently only available for Android. You can download it from the [Google Play Store](https://play.google.com/store/apps/details?id=com.your.package.name). Support for other platforms is coming soon.
+Subby is currently only available for Android. You can download the latest release at the [realeases page](https://github.com/A-Emile/subby/releases). Support for other platforms is coming soon.
 
 ## Usage
 
