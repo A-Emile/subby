@@ -14,14 +14,15 @@ Subby is an open-source client for Subsonic-compatible music streaming servers. 
 
 ## Features
 
-- Stream music from your Subsonic-compatible server (e.g. Subsonic, Navidrome, Airsonic)
-- Offline mode
-- Chromecast support
-- Android Auto support
-- Browse your music collection by artist, album, and song
-- Playlists support
-- Album art support
-- Support for iOS, macOS, Linux, and Windows (coming soon)
+- [x] Stream music from your Subsonic-compatible server (e.g. Subsonic, Navidrome, Airsonic)
+- [ ] Offline mode
+- [ ] Chromecast support
+- [ ] Android Auto support
+- [x] Material You
+- [x] Browse your music collection by artist, album, and song
+- [x] Playlists support
+- [x] Album art support
+- [ ] Cross-Plattform support
 
 ## Installation
 
