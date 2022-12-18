@@ -1,4 +1,4 @@
-### This repo is currently empty. When all basic features are working, the source-code will be released..
+### This repo is currently empty. Once the basic features are working, the source-code will be released..
 
 
 # Subby
