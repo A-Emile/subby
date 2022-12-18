@@ -22,6 +22,7 @@ Subby is an open-source client for Subsonic-compatible music streaming servers. 
 - [ ] Offline mode
 - [ ] Chromecast support
 - [ ] Android Auto support
+- [ ] Playlist recommendations
 - [x] Material You
 - [x] Browse your music collection by artist, album, and song
 - [x] Playlists support
