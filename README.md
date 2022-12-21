@@ -1,6 +1,3 @@
-### This repo is currently empty. Once the basic features are working, the source-code will be released..
-
-
 # Subby
 
 Subby is an open-source client for Subsonic-compatible music streaming servers. It allows users to access their music collections on the go and stream them to their devices.
