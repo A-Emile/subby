@@ -1,0 +1,2 @@
+arb-dir: lib/localization
+output-localization-file: app_localizations.dart
