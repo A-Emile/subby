@@ -173,6 +173,8 @@ class _AlbumDetailsViewState extends State<AlbumDetailsView> {
               ),
             );
           }),
+
+          // Actions
           SliverToBoxAdapter(
             child: Padding(
               padding: const EdgeInsets.all(8.0),
@@ -251,6 +253,7 @@ class _AlbumDetailsViewState extends State<AlbumDetailsView> {
                             coverArt: _album!.coverArt,
                             artist: _album!.artist,
                             songCount: _album!.songCount,
+                            rating: _album!.rating,
                             starred: _album?.starred == null
                                 ? DateTime.now().toIso8601String()
                                 : null);
@@ -271,6 +274,8 @@ class _AlbumDetailsViewState extends State<AlbumDetailsView> {
               ),
             ),
           ),
+
+          // Song list
           SliverToBoxAdapter(
             child: Padding(
               padding: const EdgeInsets.all(8.0),
