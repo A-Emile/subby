@@ -36,7 +36,7 @@ Subby is currently only available for Android. You can download the latest relea
 
 To use Subby, open the app and enter the URL, username, and password for your Subsonic-compatible server. Once you're logged in, you can browse your music collection and start streaming.
 
-Subby supports Chromecast, so you can easily stream your music to a compatible device. It also supports Android Auto, so you can control it hands-free while driving.
+Subby will support Chromecast, so you can easily stream your music to a compatible device. It will also support Android Auto, so you can control it hands-free while driving.
 
 ## Contributions
 
