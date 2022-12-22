@@ -1,6 +1,3 @@
-### This repo is currently empty. Once the basic features are working, the source-code will be released..
-
-
 # Subby
 
 Subby is an open-source client for Subsonic-compatible music streaming servers. It allows users to access their music collections on the go and stream them to their devices.
@@ -39,7 +36,7 @@ Subby is currently only available for Android. You can download the latest relea
 
 To use Subby, open the app and enter the URL, username, and password for your Subsonic-compatible server. Once you're logged in, you can browse your music collection and start streaming.
 
-Subby supports Chromecast, so you can easily stream your music to a compatible device. It also supports Android Auto, so you can control it hands-free while driving.
+Subby will support Chromecast, so you can easily stream your music to a compatible device. It will also support Android Auto, so you can control it hands-free while driving.
 
 ## Contributions
 
@@ -47,4 +44,4 @@ Subby is an open-source project and contributions are welcome. If you have an id
 
 ## License
 
-Subby is licensed under the [MIT License](https://github.com/A-Emile/subby/blob/master/LICENSE).
+Subby is licensed under the [GNU General Public License v3.0](https://github.com/A-Emile/subby/blob/master/LICENSE).
